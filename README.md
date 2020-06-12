@@ -17,7 +17,7 @@ I have experience in data and statistical analysis built through my experience w
 
 
 ## Projetos:
-
+Analisando os dados do Airbnb - Roma: https://bit.ly/37ApQ6l
 
 
 ---
