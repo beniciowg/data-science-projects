@@ -18,6 +18,6 @@ I have experience in data and statistical analysis built through my experience w
 
 ## Projects:
 Analyzing the data of Airbnb - Rome: https://bit.ly/37ApQ6l
-
+Analyzing Violence in Rio de Janeiro: https://bit.ly/37Ky0sH
 
 ---
