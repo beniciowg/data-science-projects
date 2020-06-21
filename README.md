@@ -21,4 +21,6 @@ Analyzing the data of Airbnb - Rome: https://bit.ly/37ApQ6l
 
 Analyzing Violence in Rio de Janeiro: https://bit.ly/3hBLWty
 
+Creating Waffle Plot and Wordcloud: https://bit.ly/2BvpOAI
+
 ---
