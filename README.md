@@ -23,4 +23,6 @@ Analyzing Violence in Rio de Janeiro: https://bit.ly/3hBLWty
 
 Creating Waffle Chart and Wordcloud: https://bit.ly/37Ok6FR
 
+An Oulook of COVID-19 in Brazil: https://bit.ly/2ZqU2gz
+
 ---
