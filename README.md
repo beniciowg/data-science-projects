@@ -8,9 +8,15 @@
 # Benício Wiggers Júnior
 <sub>*Data Scientist*</sub>
 
-I have experience in data and statistical analysis built through my experience with internships in mid and big-sized companies and exchange program in Germany. Furthermore, I have strong knowledge in softwares and python for data analysis.
+I am a data-driven professional focused on problem solving and decision making. My profile consists in continuous learning and knowledge seeking. I believe in the technological evolution as an ally of people’s life improvement and businesses transformation.
 
-**Background in:** Python, Power BI, Excel
+As a materials engineer, I’ve developed the ability of critical thinking, which allows me to use the scientific methodology in my projects.
+
+When facing a challenge, I search for the right questions and answer them with data analysis.
+
+**Programming skills:** Python, SQL and VBA for Excel
+**Machine Learning skills:** Linear Regression, Logistic Regression, Decision Tree, K-Means, XGBoost
+**BI skills:** Power BI
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/benicio-wiggers-jr)
