@@ -15,7 +15,9 @@ As a materials engineer, I’ve developed the ability of critical thinking, whic
 When facing a challenge, I search for the right questions and answer them with data analysis.
 
 **Programming skills:** Python, SQL and VBA for Excel
+
 **Machine Learning skills:** Linear Regression, Logistic Regression, Decision Tree, K-Means, XGBoost
+
 **BI skills:** Power BI
 
 **Links:**
