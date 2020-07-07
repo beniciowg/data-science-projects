@@ -33,4 +33,6 @@ Creating Waffle Chart and Wordcloud: https://bit.ly/37Ok6FR
 
 An Oulook of COVID-19 in Brazil: https://bit.ly/2Zch8qV
 
+Credit Card's Fraud Detection: https://bit.ly/2O5Td7k
+
 ---
