@@ -6,7 +6,7 @@
 </p>
 
 # Benício Wiggers Júnior
-<sub>*Data Scientist*</sub>
+<sub>*Data Analytics | Business Intelligence | Ciência de Dados | Inteligência Artificial*</sub>
 
 I am a data-driven professional focused on problem solving and decision making. My profile consists in continuous learning and knowledge seeking. I believe in the technological evolution as an ally of people’s life improvement and businesses transformation.
 
