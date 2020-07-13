@@ -16,7 +16,7 @@ When facing a challenge, I search for the right questions and answer them with d
 
 **Programming skills:** Python, SQL and VBA for Excel
 
-**Machine Learning skills:** Linear Regression, Logistic Regression, Decision Tree, K-Means, XGBoost
+**Machine Learning skills:** Linear Regression, Logistic Regression, Decision Tree, K-Means, XGBoost, Cross-validation, Bayesian Optimization
 
 **BI skills:** Power BI
 
