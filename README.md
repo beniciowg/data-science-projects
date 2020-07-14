@@ -35,4 +35,6 @@ An Oulook of COVID-19 in Brazil: https://bit.ly/2Zch8qV
 
 Credit Card's Fraud Detection: https://bit.ly/2O5Td7k
 
+Hyperparameters tuning with Bayesian Optimization: https://bit.ly/3j2jBNE
+
 ---
