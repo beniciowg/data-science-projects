@@ -37,4 +37,6 @@ Credit Card's Fraud Detection: https://bit.ly/2O5Td7k
 
 Hyperparameters tuning with Bayesian Optimization: https://bit.ly/3j2jBNE
 
+Churn Prediction with Machine Learning: https://bit.ly/3fdogJu
+
 ---
